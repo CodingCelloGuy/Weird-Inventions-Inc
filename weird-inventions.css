@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Diphylleia&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Protest+Riot&display=swap');
+
+#company-name {
+  font-size: 45px;
+  font-family: Protest Riot;
+  font-weight: normal;
+  border-bottom: solid;
+  border-width: 4px;
+  border-color: black;
+  padding: 25px 0 25px 35px;
+  background-color: rgb(203, 255, 249);
+  margin: -8px -8px -8px -8px;
+  position: sticky;
+  top: 0;
+}
+
+.product {
+  border-style: solid;
+  border-width: 0 0 4px 0;
+  font-family: Josefin Sans;
+}
+
+.product-name {
+  font-size: 30px;
+  font-weight: bold;
+  margin: 20px 0 5px 0;
+}
+
+.product-inventor {
+  font-size: 15px;
+  font-weight: bold;
+  color: rgb(115 115 115);
+  margin: 0 0 0 0;
+  font-family: Diphylleia;
+}
+
+.product-image {
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  border-radius: 20px;
+  margin: 15px 25px 15px 25px;
+}
+
+.product-description {
+  width: 700px;
+}
